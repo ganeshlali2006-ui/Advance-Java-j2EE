@@ -27,3 +27,5 @@ p10:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/p10.png
 MapInterfaceDemo:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/MapInterfaceDemo.png
 
 lab2.p1:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p1.png
+
+lab2.p2:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p2.png

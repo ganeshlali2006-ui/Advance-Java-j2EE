@@ -35,3 +35,5 @@ lab2.p5:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p5
 lab2.p3:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p3%20-%20Copy.png
 
 lab2.p4:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p4%20-%20Copy.png
+
+lab2.p6:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p6.png

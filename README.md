@@ -72,6 +72,8 @@ CountryCapitalList:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/m
 
 JListExample:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/JlistExample.png
 
+Tabbedpane:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/TabbedPaneExample.png
+
 
 
 

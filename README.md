@@ -52,6 +52,8 @@ lab2.p12:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p
 
 Stringbuildingfunctions:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/StringBuildingFunctions.png
 
+StringhandlingDemo:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/StringhandlingDemo.png
+
 
 
 

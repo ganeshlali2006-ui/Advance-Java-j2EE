@@ -44,6 +44,8 @@ lab2.p8:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p8
 
 lab2.p9:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p9.png
 
+lab2.p10:https://github.com/ganeshlali2006-ui/Advance-Java-j2EE/blob/main/lab2.p10.png
+
 
 
 
